@@ -19,7 +19,7 @@ if __name__ == "__main__":
     #width = [640, 1280, 1640, 1640, 1920, 3280]
     #height =[480,  720,  922, 1232, 1080, 2464]
     
-    # picamera V2 version 
+    # picamera V1 version 
     width = [640, 1296, 1296,  1920, 2592]
     height =[480,  730, 972, 1080, 1944]
 
